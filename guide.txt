@@ -1,0 +1,53 @@
+Lista för huvudtextens grafiska form
+====================================
+
+- Förslag på typsnitt, storlek, radavstånd: Times New Roman, 11 punkter, 1,5
+  radavstånd i löptext. Fotnoter 9 punkter.
+
+- Standardmarginaler 3 centimeter överallt: höger, vänster, uppe och nere.
+
+- Citat ska alltid vara exakt återgivna. Längre citat i eget stycke: blankrad,
+  indrag för hela citatet och mindre textstorlek (9 punkter), blankrad. Obs
+  varken kursivering eller citationstecken, såvida inte detta finns i orginalet
+  som citeras.
+
+- Textens olika nivåer: var noga med att ha samma utseende med teckenstorlek,
+  kursivering, fetstil och indrag till textens olika avdelningar med rubriker,
+  underrubriker, löpande text, uppräkningar, citat, fotnoter etc. Om allt detta
+  är konsekvent gjort så är det betydligt lättare att orientera sig i
+  texten. Använd alltid indrag för nytt stycke i löpande text. Om blankrad innan
+  nytt stycke behöver även en underrubrik föras in.
+
+- Innehållsförteckning ska finnas, där även sidnummer tydligt framgår. Här
+  listas även bilagor/appendix, exempelvis i form av partitur och inspelningar.
+
+- Bildtexter ska kursiveras och högerställas.
+
+- Sidnummer ska centreras nedtill.
+
+- Fotnoter ska numreras och hamna längst ned på sidan (alltså helst inte samlade
+  i slutet). Det finns flera godkända system för fotnoter och referenser. Välj
+  ett och var konsekvent. En mer utförlig guide till referenshantering finns i
+  ovan i denna pdf. Oxford rekommenderas.
+
+- Referenslista ska finnas. Käll- och litteraturhänvisningar görs enligt det
+  system som du har valt och kom ihåg att även musik som du skriver om
+  (inspelningar, konserter, partitur etc) självklart måste finnas med i
+  referenslistan. Se särskild guide för referenser.
+
+- Examensarbetet är ”musik” + ”text” (dvs ”det praktiska arbetet” plus ”det
+  skriftligt reflekterande arbetet”) och därför ska musiken finnas med i det
+  färdiga arbetet. Detta beror förstås på arbetets art och utformning, men det
+  vanligaste är kanske att musiken bifogas i form av partitur och
+  inspelningar. Tänk på att musiken ska finnas med när det färdiga arbetet
+  skickas ut som pdf inför ventileringsseminariet!
+
+- Titeln ska informera om innehållet och väcka intresse. Gärna rubrik och underrubrik.
+
+- Syftet ska förstås framgå tydligt, även om texten inte är strikt akademisk.
+
+- För kandidatstudenter ska texten omfatta minst 2 500 ord (motsvarande ca 10
+  sidor eller 15 000 tecken inklusive blanksteg).
+
+- För masterstudenter ska texten omfatta minst 5 000 ord (motsvarande ca 20
+  sidor eller 30 000 tecken inklusive blanksteg).
