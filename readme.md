@@ -1,5 +1,5 @@
 # KMH Thesis Class
-LaTeX-klass för KMH's formatteringsregler.
+LaTeX-klass för KMH's formatteringsregler, baserad på [dessa](./guide.txt) regler.
 
 ## Innehåll
 - [x] Typsnitt: Times Roman, 11pt.
