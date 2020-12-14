@@ -11,3 +11,4 @@ LaTeX-klass för KMH's formatteringsregler, baserad på [dessa](./guide.txt) reg
   - [ ] Teckenstorlek 9pt
 - [x] Bildtexter kursiveras och högerställs
 - [ ] Källhänvisning: ...
+- [ ] Titelsida och baksida
