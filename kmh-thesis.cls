@@ -7,7 +7,7 @@
 \LoadClass[11pt,a4paper]{article}             % allt annat är som `article`, teckenstorlek 11
 
 \RequirePackage[utf8]{inputenc}
-\RequirePackage[swedish]{babel}       % svenska
+\RequirePackage[english]{babel}       % engelska
 
 \RequirePackage[margin=3cm]{geometry} % 3cm marginal överallt
 
@@ -29,8 +29,8 @@
 %%%%%%%%%%%%%%%
 % Referencing %
 %%%%%%%%%%%%%%%
-\RequirePackage{hyperref}                                      % länkar
-\RequirePackage[backend=biber, citestyle=authoryear]{biblatex} % referenser
+\RequirePackage{hyperref}                                           % länkar
+\RequirePackage[backend=biber, style=authoryear-ibid]{biblatex}     % referenser
 
 %%%%%%%%%%%%% 
 % Variables %
