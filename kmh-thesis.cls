@@ -24,7 +24,13 @@
 %%%%%%%%
 % Font %
 %%%%%%%%
-\RequirePackage{mathptmx}             % for times new roman
+\RequirePackage{fontspec}                         % Paketet `fontspec' behövs för att byta font
+\setmainfont{Times New Roman}                     % Ladda Times New Roman som huvudfont
+
+\RequirePackage{etoolbox}                         % För att kunna använda `\AtBeginEnvironment'
+\newfontfamily\quotefont{Times New Roman}         % Skapa en ny fontfamily
+\AtBeginEnvironment{quote}{\quotefont\footnotesize}      % Ladda den fontfamily med `\small'
+% \RequirePackage{mathptmx}             
 
 %%%%%%%%%%%%%%%
 % Referencing %
